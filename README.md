@@ -1,9 +1,9 @@
 <h1>voice_assistant</h1>
 <br>
 <p>To run the program<p>
------------------------
-Create virtual environment.
-Clone this repo.
+  
+  <li>Create virtual environment.</li>
+  <li>Clone this repo.</li>
 
 ```cd voice_assistant```
 
@@ -28,4 +28,4 @@ Name of the pyttsx3.drivers module to load and use. Defaults to the best availab
 
 
 ---
-Author AK2708
+Author: AK2708
