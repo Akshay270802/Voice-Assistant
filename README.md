@@ -1,7 +1,7 @@
 <h1>voice_assistant</h1>
 <br>
 <p>To run the program<p>
-----
+-----------------------
 Create virtual environment.
 Clone this repo.
 
