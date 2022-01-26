@@ -7,7 +7,7 @@ A project to build an AI voice assistant using Python . The Voice assistant inte
 
 Jarvis is an AI personal voice assistant service built using Pychram. It can understand human speech and perform basic task designed by the client.
 
-When the user specify the appropriate trigger words , The G-One gets activated and executes the user commands.
+When the user specify the appropriate trigger words , The Jarvis gets activated and executes the user commands.
 
 
 Jarvis AI Voice assistant:"Loading your personal Assistant....
@@ -51,7 +51,7 @@ Jarvis AI Voice assistant:"Loading your personal Assistant....
 6. Ask geographical and computational questions
 	
   	 	
-		User: Hey Jarvis, What is the capital of California? / Hey G-One what is Sin 90?
+		User: Hey Jarvis, What is the capital of California? / Hey Jarvis what is Sin 90?
 		
 		
 7. Predict Weather of different Cities
